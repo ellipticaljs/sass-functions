@@ -1,12 +1,12 @@
 {
   "name": "sass-functions",
   "description": "Sass Utility Functions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "S. Francis",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tachyon1337/sass-functions.git"
+    "url": "https://github.com/ellipticaljs/sass-functions.git"
   },
   "devDependencies": {
     "gulp": "^3.9.0",
